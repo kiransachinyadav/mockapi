@@ -2,19 +2,19 @@
   "cities": [
     {
       "id": 1,
-      "name": "London"
+      "name": "Pune"
     },
     {
       "id": 2,
-      "name": "Chicago"
+      "name": "Mumbai"
     },
     {
       "id": 3,
-      "name": "New York"
+      "name": "Nasik"
     },
     {
       "id": 4,
-      "name": "chandigar"
+      "name": "Hydrabad"
     },
     {
       "id": 5,
@@ -22,23 +22,23 @@
     },
     {
       "id": 6,
-      "name": "Tokyo"
+      "name": "Jammu"
     },
     {
       "id": 7,
-      "name": "Toronto"
+      "name": "Shrinagar"
     },
     {
       "id": 8,
-      "name": "New Jersey"
+      "name": "Chandigarh"
     },
     {
       "id": 9,
-      "name": "Colombo"
+      "name": "Kolkatta"
     },
     {
       "id": 10,
-      "name": "Kolkata"
+      "name": "Aurangabad"
     },
     {
       "id": 11,
@@ -47,34 +47,6 @@
     {
       "id": 12,
       "name": "Bengaluru"
-    },
-    {
-      "id": 13,
-      "name": "Chandigarh"
-    },
-    {
-      "id": 14,
-      "name": "Brisbane"
-    },
-    {
-      "id": 15,
-      "name": "Sydney"
-    },
-    {
-      "id": 16,
-      "name": "Queenstown"
-    },
-    {
-      "id": 17,
-      "name": "Vancouver"
-    },
-    {
-      "id": 18,
-      "name": "Paris"
-    },
-    {
-      "id": 19,
-      "name": "Rome & Los Angeles"
     }
   ]
 }
